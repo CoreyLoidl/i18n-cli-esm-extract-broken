@@ -1,0 +1,23 @@
+{
+  "name": "i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node -T -O '{\"module\": \"commonjs\"}' test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyLoidl/i18n-cli-esm-exract-broken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyLoidl/i18n-cli-esm-exract-broken/issues"
+  },
+  "homepage": "https://github.com/CoreyLoidl/i18n-cli-esm-exract-broken#readme",
+  "dependencies": {
+    "i18next-cli": "^1.18.1",
+    "ts-node": "^10.9.2"
+  }
+}
